@@ -1,9 +1,3 @@
----
-description: >-
-  This page provides foundational definitions and explanations essential to
-  understanding computer networking.
----
-
 # Introduction
 
 ## **Networking**
