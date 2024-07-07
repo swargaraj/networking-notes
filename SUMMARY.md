@@ -5,3 +5,4 @@
 ## Fundamentals
 
 * [OSI: The Reference Model](fundamentals/osi-the-reference-model.md)
+* [TCP/IP Model](fundamentals/tcp-ip-model.md)
