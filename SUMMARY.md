@@ -4,4 +4,4 @@
 
 ## Fundamentals
 
-* [Page 1](fundamentals/page-1.md)
+* [OSI: The Reference Model](fundamentals/osi-the-reference-model.md)
