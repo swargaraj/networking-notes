@@ -8,7 +8,7 @@ description: >-
 
 The OSI model is divided into seven layers, each fulfilling a particular function. When combined, each function contributes to enabling full computer-to-computer data communication.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>OSI Model</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>OSI layers</p></figcaption></figure>
 
 ## OSI Layer 1 – Physical <a href="#osi-layer-1" id="osi-layer-1"></a>
 
